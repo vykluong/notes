@@ -2,7 +2,7 @@
 Describes how to open loader without installer
 
 ## Expand PKG
-Extract downloaded file compressed (e.g., `.zip`) and expand `.pkg` into directory (e.g., `AngryMiao`)
+Extract downloaded file if compressed (e.g., `.zip`) and expand `.pkg` into directory (e.g., `AngryMiao`)
 ```sh
 > pkgutil --expand-full AngryMiaoKeyboard_Mac-20220402-1.0.7.pkg AngryMiao
 ```
